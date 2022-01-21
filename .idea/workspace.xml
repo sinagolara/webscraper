@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25451def-b292-4686-906b-da3c477563d7" name="New changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <list id="7925ff95-a0c0-40ab-a1e5-097b0bb8817e" name="Revert &quot;Initial commit&quot;-2" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 480a7d48">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <list id="aa9ad14e-1019-4051-a404-92be6bab7820" name="Revert &quot;Initial commit&quot;-3" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 1f6c5b53">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/2- Scraper General.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.gitignore">
+      <ranges>
+        <range start1="1" end1="2" start2="1" end2="2" changelist="7925ff95-a0c0-40ab-a1e5-097b0bb8817e" />
+        <range start1="3" end1="7" start2="3" end2="3" changelist="7925ff95-a0c0-40ab-a1e5-097b0bb8817e" />
+        <range start1="8" end1="8" start2="4" end2="6" changelist="25451def-b292-4686-906b-da3c477563d7" />
+      </ranges>
+    </file>
+  </component>
+  <component name="ProjectId" id="241E8V61Sp49YxZv9AWyB0CtvAR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25451def-b292-4686-906b-da3c477563d7" name="New changelist" comment="" />
+      <created>1642789534293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642789534293</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1642795720962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642795720962</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1642795853749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642795853749</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1642796710342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642796710342</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1642796751948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642796751948</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1642796779346</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642796779346</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1642796862597</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642796862597</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 5b85c6a8">
+      <created>1642797423603</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642797423603</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 5b85c6a8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 5b85c6a8" />
+  </component>
+</project>
