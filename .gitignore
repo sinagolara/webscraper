@@ -1,5 +1,8 @@
 /venv/
-/listings/*.*
-/dealers/*.*
-/ip_check/*.*
+/listings/*
+/dealers/*
+/sales/*
+/ip_check/*
 /*/hist/*.*
+/guide/hist/*.*
+/recycle_bin/*
