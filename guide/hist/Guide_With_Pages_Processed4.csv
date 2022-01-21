@@ -1,0 +1,3 @@
+url,min,max,Listing_Count,Max_Pages,guide_id,Page,Result,search_id
+https://www.cars.com/shopping/results/?page_size=250&searchSource=GN_REFINEMENT&zc=85281&maximum_distance=all&list_price_min=0&list_price_max=499&page=8,0,499.0,6171,25,0,8,'NoneType' object has no attribute 'find',8
+https://www.cars.com/shopping/results/?page_size=250&searchSource=GN_REFINEMENT&zc=85281&maximum_distance=all&list_price_min=0&list_price_max=499&page=17,0,499.0,6171,25,0,17,'NoneType' object has no attribute 'find',9
